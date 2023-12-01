@@ -1,0 +1,2 @@
+1. mapはget_next_lineで読み取り？
+2. validate_mapの各関数が正しく動作するか、テストをしよう
